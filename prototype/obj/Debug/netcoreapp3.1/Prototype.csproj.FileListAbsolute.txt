@@ -1,0 +1,17 @@
+C:\Users\mackyu\source\repos\DP\prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\mackyu\source\repos\DP\prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\mackyu\source\repos\DP\prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\mackyu\source\repos\DP\prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\mackyu\source\repos\DP\prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\mackyu\source\repos\DP\prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.AssemblyReference.cache
+C:\Users\mackyu\source\repos\DP\prototype\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mackyu\source\repos\DP\prototype\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mackyu\source\repos\DP\prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CopyComplete

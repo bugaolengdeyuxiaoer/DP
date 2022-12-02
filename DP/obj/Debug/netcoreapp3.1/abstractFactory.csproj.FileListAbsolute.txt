@@ -1,0 +1,14 @@
+C:\Users\mackyu\source\repos\DP\DP\obj\Debug\netcoreapp3.1\abstractFactory.csproj.AssemblyReference.cache
+C:\Users\mackyu\source\repos\DP\DP\obj\Debug\netcoreapp3.1\abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackyu\source\repos\DP\DP\obj\Debug\netcoreapp3.1\abstractFactory.AssemblyInfoInputs.cache
+C:\Users\mackyu\source\repos\DP\DP\obj\Debug\netcoreapp3.1\abstractFactory.AssemblyInfo.cs
+C:\Users\mackyu\source\repos\DP\DP\obj\Debug\netcoreapp3.1\abstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\mackyu\source\repos\DP\DP\bin\Debug\netcoreapp3.1\abstractFactory.exe
+C:\Users\mackyu\source\repos\DP\DP\bin\Debug\netcoreapp3.1\abstractFactory.deps.json
+C:\Users\mackyu\source\repos\DP\DP\bin\Debug\netcoreapp3.1\abstractFactory.runtimeconfig.json
+C:\Users\mackyu\source\repos\DP\DP\bin\Debug\netcoreapp3.1\abstractFactory.runtimeconfig.dev.json
+C:\Users\mackyu\source\repos\DP\DP\bin\Debug\netcoreapp3.1\abstractFactory.dll
+C:\Users\mackyu\source\repos\DP\DP\bin\Debug\netcoreapp3.1\abstractFactory.pdb
+C:\Users\mackyu\source\repos\DP\DP\obj\Debug\netcoreapp3.1\abstractFactory.dll
+C:\Users\mackyu\source\repos\DP\DP\obj\Debug\netcoreapp3.1\abstractFactory.pdb
+C:\Users\mackyu\source\repos\DP\DP\obj\Debug\netcoreapp3.1\abstractFactory.genruntimeconfig.cache

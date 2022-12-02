@@ -1,0 +1,14 @@
+C:\Users\mackyu\source\repos\DP\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Users\mackyu\source\repos\DP\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Users\mackyu\source\repos\DP\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Users\mackyu\source\repos\DP\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Users\mackyu\source\repos\DP\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\mackyu\source\repos\DP\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\mackyu\source\repos\DP\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\Users\mackyu\source\repos\DP\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackyu\source\repos\DP\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\mackyu\source\repos\DP\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Users\mackyu\source\repos\DP\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\mackyu\source\repos\DP\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\mackyu\source\repos\DP\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\mackyu\source\repos\DP\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache

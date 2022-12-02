@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AnalysisLevel>latest</AnalysisLevel>
+	<LangVersion>9.0</LangVersion>
+	<ApplicationIcon />
+	<OutputType>Exe</OutputType>
+	<StartupObject />
+  </PropertyGroup>
+
+</Project>

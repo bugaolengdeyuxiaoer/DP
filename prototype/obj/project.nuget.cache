@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vnhzXyAs/yfQOHaCRVnaQ6FsrQM0DqsL5YWZsAKibBVcggInpOjVgDOBcoTiY8KRWUh097dMAxD4EKCK/Dntrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mackyu\\source\\repos\\DP\\prototype\\Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mackyu\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\mackyu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

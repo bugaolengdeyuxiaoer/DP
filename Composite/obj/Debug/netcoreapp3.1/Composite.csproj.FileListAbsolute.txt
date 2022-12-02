@@ -1,0 +1,14 @@
+C:\Users\mackyu\source\repos\DP\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\mackyu\source\repos\DP\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\mackyu\source\repos\DP\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\mackyu\source\repos\DP\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\mackyu\source\repos\DP\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\mackyu\source\repos\DP\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\mackyu\source\repos\DP\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.AssemblyReference.cache
+C:\Users\mackyu\source\repos\DP\Composite\obj\Debug\netcoreapp3.1\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackyu\source\repos\DP\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\mackyu\source\repos\DP\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\mackyu\source\repos\DP\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\mackyu\source\repos\DP\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\mackyu\source\repos\DP\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\mackyu\source\repos\DP\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
